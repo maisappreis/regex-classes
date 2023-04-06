@@ -46,7 +46,7 @@ print(match(r'\d{2,4}', '1')) # None
 print(match(r'\d{2,4}?', '12345')) # <re.Match object; span=(0, 2), match='12'>
 
 
-# Quero 0 ou 1 ocorrência
+# Quero 0 ou 1 ocorrência:
 
 match(r'\d{0,1}', '12345')
 match(r'\d{,1}', '12345') # posso omitir o 0 que funciona igual
