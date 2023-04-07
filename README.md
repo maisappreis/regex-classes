@@ -1,4 +1,5 @@
-# regex
-Notes from my REGEX course
+# Regex Lessons
 
-# it's not a project, just lessons!
+- This repository doesn't contain a real project.
+- Here you will find my regex notes taken during my Python course.
+- If you want to learn something about Regex, you can find it here.
